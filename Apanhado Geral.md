@@ -1,8 +1,8 @@
-#Apanhado geral para realização do trabalho
+# Apanhado geral para realização do trabalho
 
-##Entidades
+## Entidades
 - [ ] aa
 
 
-##Relacionamentos
+## Relacionamentos
 - [ ] bb
